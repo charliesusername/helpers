@@ -1,0 +1,7 @@
+Hi Charlie,
+
+This is your work profile. I'm emailing your using Google API authentication service. 
+
+Did you receive the email ok?
+
+-- Charlie (from work)
